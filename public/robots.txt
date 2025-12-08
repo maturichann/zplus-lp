@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 # Sitemaps
-Sitemap: https://and-and.jp/sitemap.xml
+Sitemap: https://zetplus.site/sitemap.xml
