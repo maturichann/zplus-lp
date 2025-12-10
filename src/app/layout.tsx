@@ -15,7 +15,7 @@ const inter = Inter({
 });
 
 // ドメインを設定してください
-const siteUrl = "https://zetplus.site";
+const siteUrl = "https://www.zetplus.site";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),

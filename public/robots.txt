@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 # Sitemaps
-Sitemap: https://zetplus.site/sitemap.xml
+Sitemap: https://www.zetplus.site/sitemap.xml
