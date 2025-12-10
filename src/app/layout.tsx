@@ -74,8 +74,7 @@ export const metadata: Metadata = {
     },
   },
   verification: {
-    // Google Search Console の認証コードをここに追加
-    // google: "your-google-verification-code",
+    google: "stnZcq_P396Ux1qnFr_x6QW7sCLTl7wZ0db_59yZA2A",
   },
   alternates: {
     canonical: siteUrl,
